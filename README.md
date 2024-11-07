@@ -6,7 +6,7 @@ sharing etc. It is basically like the Bit-Torrent we have on the internet.
 - The architecture is such that there are multiple clients(users) and a tracker which stores the
 metadata of which all users have a file, basically a file-user mapping.
 
-  ![image](./bit)
+  ![image](https://github.com/NithinV-tech/Distributed-File-Sharing/blob/main/bit%20bit.png)
 
 
 ## Prerequisites
